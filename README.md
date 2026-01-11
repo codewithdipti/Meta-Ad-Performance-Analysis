@@ -68,5 +68,7 @@ It can be used by marketers to optimize Meta ad campaigns effectively.
 
 🌸 Hey, I'm Dipti Rani Sahu 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
+
 💼 LinkedIn:[Dipti Rani Sahu](https://www.linkedin.com/in/dipti-rani-sahu-19700527b/)
+
 📫 Email:iamdiptirani@gmail.com
